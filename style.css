@@ -3,3 +3,6 @@
     flex-direction: column;
     align-items: center;
 }
+.bio{
+    max-width: 50%;
+}
